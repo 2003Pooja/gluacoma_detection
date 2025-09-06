@@ -50,3 +50,4 @@ This project demonstrates that integrating multiple structural and functional bi
 * Li et al., CNN-based Glaucoma Detection (2018)
 * Medeiros et al., Multi-modal AI for Glaucoma (2019)
 
+Watch project demo here: [YouTube Link](https://youtu.be/mEOXPtZbCG8?si=Sg5oSl43moJV_ajO)
