@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+newenv/
+venv310/
+tf28env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (too large for GitHub)
+*.h5
+*.keras
+
+# IDE/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
